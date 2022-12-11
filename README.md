@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+😊;Welcome+to+this+page;I+am+in+the+field+of+Android+and...;jetpack+compose!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+😊;Welcome+to+this+page;I+am+in+the+field+of+Android+and...;jetpack+compose!&font=Exo+1%20Code&size=40&center=true&width=800&color=5bf736&height=90&duration=4000&pause=2000">
 </p>
 
-<br>
 <br>
 
 <img  src="https://s2.uupload.ir/files/bg_cttt.jpg">
