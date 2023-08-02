@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://t.me/matinnasiridev"><img src="https://img.shields.io/badge/telegram-1da1f2?style=for-the-badge&logo=telegram&logoColor=white&color=27a0df"/></a> 
   <a href="https://instagram.com/matinnasiridev"><img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/matin-nasiri-5a4405200"><img src="https://img.shields.io/badge/linkedin-0c67c2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/matinnasiridev"><img src="https://img.shields.io/badge/linkedin-0c67c2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 <summary><h3>About me :</h3></summary>
