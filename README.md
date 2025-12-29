@@ -3,12 +3,15 @@
     <img height="150" src="https://github.com/matinnasiridev/matinnasiridev/blob/main/main-logo.png"/></a>
 </p>
 
-# Android Developer - Kotlin
+# Back-End Developer - Go
 
-I'm an Android developer fluent in Kotlin and I'm trying to be a useful member of this community. My goal is to create modern and high-quality applications for the Android operating system. Here you can see a sample of my projects and contributions in the open source domain.
+Backend-focused developer with 2+ years of experience in Android development using Kotlin and Java, currently
+transitioning into backend development with Go. Passionate about building scalable, efficient systems and actively
+deepening knowledge in distributed systems, RESTful API design, and backend architecture. Seeking a backend Go
+developer role to contribute to challenging projects while growing into a proficient backend engineer.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-rgb(0,172,215)?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 <p align="left">
