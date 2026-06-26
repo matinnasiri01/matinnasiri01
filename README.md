@@ -5,7 +5,7 @@
 Backend Developer (Go) specializing in scalable systems and clean architecture;<br>
 Actively deepening knowledge in distributed systems, event-driven microservices, and RESTful API design.
 
-- ⚙️ I use daily: `.go`, `.sql`, `.yaml`, `.dockerfile`, `.json`
+- ⚙️ I use daily: `.go`, `.sql`, `.yml`, `.dockerfile`, `.json`
 - 🌍 I'm mostly active within the **Golang Community**
 - 🚀 Built: RESTful APIs, concurrent systems, clean architecture projects, event-driven microservices
 - 📜 Certified: Quera's Golang certification
